@@ -15,6 +15,8 @@
 ### Answer the following questions in `Answers.md` file - (You will create the file by yourself)
 
 1. What is VCS?
+
+  > VCS stands for Version Control System....
 2. What is git?
 3. What is github?
 4. What is the difference between git and github?
