@@ -26,7 +26,7 @@
 
 ### Tasks
 
-1. Create *Details.md* file and fill it with basic information about and make a commit
+1. Create *Details.md* file and fill it with basic information about you and make a commit
 2. On the same file, delete the contents and fill with basic information about where you live and commit 
 
 
