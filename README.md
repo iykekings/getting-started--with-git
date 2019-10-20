@@ -20,6 +20,7 @@
 2. What is git?
   > Git is a version control system.....
 3. What is github?
+  > completed
 4. What is the difference between git and github?
 5. Mention 3 uses for VCS?
 
