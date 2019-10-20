@@ -1,3 +1,2 @@
-My name is Ikechukwu eze
-I'm a software developer
-I love Javascript 🔥
+I live at Enugu Nigeria
+Enugu is a lovely state in Nigeria
