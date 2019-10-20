@@ -12,7 +12,7 @@
 - Don't merge it.
 - It will be evaluated and merged by the reviewer
 
-### Answer the following questions in `Answers.md` files - (You will create the file by yourself)
+### Answer the following questions in `Answers.md` file - (You will create the file by yourself)
 
 1. What is VCS?
 2. What is git?
